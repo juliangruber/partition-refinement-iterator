@@ -1,6 +1,6 @@
 {
   "name": "partition-refinement-iterator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Progressively refine partitions of a finite set",
   "scripts": {
     "test": "make test"
